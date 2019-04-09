@@ -1,0 +1,16 @@
+to do:
+x ranking based on average
+x add reset command
+x limit favorites
+x style hamster list
+x style race list
+x style leaderboards
+x style user detail
+x style race detail
+x style hamster detail
+x figure out avg bug (max of 6)
+
+nice to have:
+fix hamster results dupe bug
+get user session on load
+show loading in leaderboards
